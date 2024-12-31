@@ -20,7 +20,8 @@ idx30_tickers = [
 ]
 
 # Download data (historical data's date range may vary according to the intended analysis)
-prices, returns = download_data(idx30_tickers, "2024-01-01", "2024-12-30")
+#prices, returns = download_data(idx30_tickers, "2024-11-01", "2024-12-30") # For the most updated data
+prices, returns = download_data(idx30_tickers, "2024-01-01", "2024-12-30") # For backtracking purposes
 
 # Perform PCA
 transformed_returns, components, explained_variance_ratio, singular_values = svdPCA(returns.values)
