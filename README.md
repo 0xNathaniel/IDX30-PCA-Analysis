@@ -19,7 +19,7 @@ This repository contains the implementation and analysis of portfolio management
 
 ---
 
-## 🌟 Introduction
+## Introduction
 
 This project explores the effectiveness of PCA in identifying systematic and idiosyncratic risks in IDX30 stocks. By analyzing principal components, this study aims to:
 - Uncover key risk factors affecting portfolio performance.
@@ -30,7 +30,7 @@ The research highlights PCA as a tool for risk management and diversification wh
 
 ---
 
-## 🚀 Features
+## Features
 
 - **PCA Implementation:** Perform PCA on IDX30 stock returns to extract principal components and explained variance.
 - **Portfolio Construction:** Create portfolios using:
@@ -43,7 +43,7 @@ The research highlights PCA as a tool for risk management and diversification wh
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```plaintext
 📂 IDX30-PCA-Portfolio-Analysis/
@@ -64,7 +64,7 @@ The research highlights PCA as a tool for risk management and diversification wh
 
 ---
 
-## 🛠️ Setup and Installation
+## Setup and Installation
 
 Follow these steps to set up and run the project:
 
@@ -94,7 +94,7 @@ python main.py
 
 ---
 
-## 📊 Results
+## Results
 - **Key Insights**
   - Portfolios constructed with broader principal components exhibited better diversification and risk mitigation.
   - Custom weight portfolios demonstrated the potential for superior returns when aligned with strategic investment goals.
