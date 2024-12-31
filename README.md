@@ -15,7 +15,9 @@ This repository contains the implementation and analysis of portfolio management
 - [Features](#features)
 - [Project Structure](#project-structure)
 - [Setup and Installation](#setup-and-installation)
+- [Usage](#usage)
 - [Results](#results)
+
 
 ---
 
@@ -84,8 +86,9 @@ Install the required Python libraries using the requirements.txt file:
 ```bash
 pip install -r requirements.txt
 ```
+---
 
-### Usage
+## Usage
 Run the following command to execute the main script:
 ```bash
 cd src
